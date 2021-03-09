@@ -1,3 +1,3 @@
 # DS-challenge
 
-Repository for data challenges from some projects
+Repository for data challenges
